@@ -28,7 +28,7 @@
 ## 📚 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gian1984&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 📫 How to Reach Me
