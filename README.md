@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Gianluca Tiengo 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/yourGitHubUsername">
-    <img src="https://komarev.com/ghpvc/?username=yourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="yourGitHubUsername" />
+  <a href="https://github.com/Gian1984">
+    <img src="https://komarev.com/ghpvc/?username=Gian1984&label=Profile%20views&color=0e75b6&style=flat" alt="yourGitHubUsername" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=tokyonight" alt="yourGitHubUsername's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gian1984&show_icons=true&theme=tokyonight" alt="yourGitHubUsername's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gianluca-tiengo/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gianluca-tiengo/)
 - Email: gl.tiengo@gmail.com
 
 <p align="center">
