@@ -42,6 +42,3 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gianluca-tiengo/)
 - Email: gl.tiengo@gmail.com
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gian1984&theme=minimal" />
-</p>
