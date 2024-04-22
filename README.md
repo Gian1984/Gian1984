@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Gianluca Tiengo 👋</h1>
 
 <p align="center">
   <a href="https://github.com/yourGitHubUsername">
@@ -33,8 +33,8 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/gianluca-tiengo/)
+- Email: gl.tiengo@gmail.com
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=yourGitHubUsername&theme=minimal" />
