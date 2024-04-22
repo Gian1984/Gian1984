@@ -43,5 +43,5 @@
 - Email: gl.tiengo@gmail.com
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourGitHubUsername&theme=minimal" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Gian1984&theme=minimal" />
 </p>
